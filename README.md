@@ -1,0 +1,2 @@
+# FlathubTUI
+Flathub tui app
